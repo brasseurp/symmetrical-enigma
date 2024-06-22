@@ -1,4 +1,4 @@
-# Example Second Page
+# Ehey
 
 En France, les arguments contre les changements juridiques liés à la famille et à la reproduction, tels que les lois sur la bioéthique de 1994 et l'instauration du Pacs en 1999, sont moins axés sur les données statistiques et davantage sur l'anthropologie et la psychanalyse structuralistes. Cela reflète une influence marquée de penseurs tels que Claude Lévi-Strauss et Jacques Lacan, dont les idées ont façonné la construction argumentative autour de la famille. Cette approche a suscité un débat sur l'histoire et l'évolution de la famille, mettant en lumière les influences théoriques sur la conception de la famille en France.
 
