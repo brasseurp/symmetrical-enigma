@@ -1,2 +1,2 @@
 - [A lire](README)
-- [Example Second Page](second-page)
+- [Hey](hey)
