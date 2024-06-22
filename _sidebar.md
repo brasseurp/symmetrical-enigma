@@ -1,2 +1,2 @@
-- [Read Me](README)
+- [A lire](README)
 - [Example Second Page](second-page)
